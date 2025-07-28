@@ -14,16 +14,8 @@ A secure-by-design web app built to showcase best practices in application secur
 ## Tools Used
 - Python (Flask), Docker, NGINX, ELK Stack, OWASP ZAP, Fail2Ban
 
-## Screenshots
-<img src="screenshots/kibana-dashboard.png" width="500"/>
-<img src="screenshots/zap-scan-results.png" width="500"/>
-
-## Live Demo
-(Optional: Link to a sandboxed Heroku or Replit demo)
-
 ## Reports
-- [📄 Hardening Checklist](link-to-hardening-doc)
-- [📄 Security Monitoring Report](link-to-monitoring-doc)
+- [📄 Security Monitoring Report](https://docs.google.com/document/d/10Bw9ljw3qRxd0gJSEA2leB_sT4RnD3ZjsWZBIRaTiDM/edit?usp=sharing)
 
 ## Author
 Seb Singh | Cybersecurity Analyst
